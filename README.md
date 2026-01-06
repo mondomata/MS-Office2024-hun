@@ -8,7 +8,7 @@
 * <b>Letöltöd</b> innen a spéci 👉<a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/raw/refs/heads/main/OfficeSetup.exe" download="true" title="a letöltési link a github.com/mondomata címre mutat, tartalék letöltési cím: https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Home2024Retail&platform=x64&language=hu-hu&version=O16GA"><b>⬇OfficeSetup.exe</b></a>-t.
 <sup>(Forrás: Microsoft, de menekülsz a hulladék, vagy kémkedő Office alkalmazásoktól. ☝️Csak jól megfontolt szándékkal használd az online MS fiókod, anélkül is tökéletesen működik ez az Office.)</sup> 
 
-* Rákattintva a letöltött fájlra <b>telepíted</b>.<sup>net sebességtől függően maga a telepítés kb. 3-5 percig tart</sup>
+* Rákattintva a letöltött fájlra <b>telepíted</b>.<sup>net sebességtől függően a telepítés kb. 3-5 percig tart</sup>
 
 <tt>Utána ugorj az aktiválás részhez.</tt>
 
