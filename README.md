@@ -30,4 +30,4 @@ Ennyi az egész.
 
 Jó szórakozást, sok örömöt a programhoz...
 > [!TIP]
-> Ha Windows telepítő és telepítési útmutató érdekel, keresd a szerző Windows11Long_Alexa, Windows-Simplegood repositories-t.)
+> Ha Windows telepítő és telepítési útmutató érdekel, keresd a szerző Windows11Long_Alexa, Windows-Simplegood leírásait.👑
