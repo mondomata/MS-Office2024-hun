@@ -10,10 +10,7 @@
 
 * Rákattintva a letöltött fájlra <b>telepíted</b>.<sup>net sebességtől függően a telepítés kb. 3-5 percig tart</sup>
 
-<tt>Utána ugorj az aktiválás részhez.</tt>
-
-▶️...Sallangmentes, kizárólag a <b>magyar Word, Excel, Powerpoint (és Onenote)</b> telepítés fut le... 
-Ennyi az egész.
+▶️...Sallangmentes, kizárólag a <b>magyar Word, Excel, Powerpoint (és Onenote)</b> telepítés fut le... Ennyi az egész.
 
 ## &#128294; Office aktiválás
 
