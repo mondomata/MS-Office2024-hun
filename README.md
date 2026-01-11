@@ -26,5 +26,6 @@
 
 
 Jó szórakozást, sok örömöt a programhoz...
+Online Office (MS fiókkal, ingyen): https://microsoftonline.com
 > [!TIP]
 > Ha Windows telepítő és telepítési útmutató érdekel, keresd a <a href="https://github.com/mondomata">szerző</a> Windows11Long_Alexa, Windows-Simplegood leírásait.👑
