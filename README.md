@@ -20,14 +20,16 @@
  ~~~
  & ([ScriptBlock]::Create((irm https://get.activated.win))) /Ohook
  ~~~
-*Az aktivátor program kb 1 perc alatt <b>automatikus</b>an lefut, a végén zöld sorban jelzi, hogy "Office is permanently activated", tehát az "office véglegesen aktiválva".(lásd a fotót) Ennyi.*
+*Az aktivátor program kb 1 perc alatt **automatikus**an lefut, a végén zöld sorban jelzi, hogy "Office is permanently activated", tehát az "office véglegesen aktiválva".*
+Ennyi.
+
+Aktiválás fotón:
 
 ![Officeaktiv](https://github.com/user-attachments/assets/c7b016c4-276a-4ab6-a702-1c1779dfc084)
 🆓<sup>forrás: https://massgrave.dev</sup>
 
-
 Jó szórakozást, sok örömöt a programhoz...
-
+<hr>
 💥Ráadás:Online Office (MS fiókkal, ingyen, bármilyen böngészőben működő webes word, excel, powerpoint): https://www.microsoft.com/hu-hu/microsoft-365/free-office-online-for-the-web
 
 > [!TIP]
