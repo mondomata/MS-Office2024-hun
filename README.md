@@ -15,7 +15,7 @@
 
 ## &#128294; Office aktiválás
 
-* Nyisd meg a <b>PowerShell</b>t (nem CMD-t): ehhez **egér jobb-gombbal** kattints a Tálcán a **Start ikonra** (vagy nyomj le **egyszerre 2 billentyűt**: [Windows] <b><kbd>![windowsbill](https://github.com/user-attachments/assets/59c9e0ed-b6d5-4797-9d13-dc078c2245b2)</kbd> és <kbd>&#x58;</kbd></b>), válaszd a felugró listán a **PowerShell(vagy Terminál)** lehetőséget. Másold ki és illeszd be az <b>alábbi kódot egyetlen sorba</b> a Powershell (Terminál) ablakba, majd nyomj <kbd> Enter </kbd>-t: 
+* Nyisd meg a <b>PowerShell</b>t (nem CMD-t): ehhez **egér jobb-gombbal** kattints a Tálcán a **Start ikonra** (vagy nyomj le **egyszerre 2 billentyűt**: [Windows] <b><kbd>![windowsbill](https://github.com/user-attachments/assets/59c9e0ed-b6d5-4797-9d13-dc078c2245b2)</kbd> és <kbd>&#x58;</kbd></b>), válaszd a felugró listán a **PowerShell(vagy Terminál)** lehetőséget. Illeszd be az <b>alábbi kódot egyetlen sorba</b> a Powershell (Terminál) ablakba, majd nyomj <kbd> Enter </kbd>-t: 
 
  ~~~
  & ([ScriptBlock]::Create((irm https://get.activated.win))) /Ohook
