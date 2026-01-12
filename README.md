@@ -28,7 +28,7 @@
 
 Jó szórakozást, sok örömöt a programhoz...
 
-💥Online Office (MS fiókkal, ingyen, bármilyen böngészőben működő webes word, excel, powerpoint): https://www.microsoft.com/hu-hu/microsoft-365/free-office-online-for-the-web
+💥Ráadás:Online Office (MS fiókkal, ingyen, bármilyen böngészőben működő webes word, excel, powerpoint): https://www.microsoft.com/hu-hu/microsoft-365/free-office-online-for-the-web
 
 > [!TIP]
 > Ha Windows telepítő és telepítési útmutató érdekel, keresd a <a href="https://github.com/mondomata">szerző</a> Windows11Long_Alexa, Windows-Simplegood leírásait.👑
