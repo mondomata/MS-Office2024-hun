@@ -1,6 +1,5 @@
 # MS Office 2024 Home (hun)
 ***1 klikk install, 1 step aktiválás! Nulla macera, max. kényelem és védelem.🥳***
-
 <sup>(Ha van telepítve MS office-od, azt töröld először a Gépház(Beállítások)/Alkalmazások menüből.☝️)</sup>
  
 ![{7B4FEBC7-1F56-409D-B3C9-E8805A3A686C}](https://github.com/user-attachments/assets/bcf6fb18-291a-4bf1-93ab-914437da505e)
