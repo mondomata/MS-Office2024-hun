@@ -1,5 +1,5 @@
 # MS Office 2024 Home (hun)
-**1 klikk install, 1 step aktiválás! Semmi macera, max. védelem és kényelem.🥳**
+**1 klikk install\1 step aktiválás!\Nulla macera, max. kényelem és védelem.🥳**
 
 <sup>(Ha van telepítve MS office-od, azt töröld először a Gépház(Beállítások)/Alkalmazások menüből.☝️)</sup>
  
