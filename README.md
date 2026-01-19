@@ -28,7 +28,8 @@ Aktiválás fotón:
 
 ![Officeaktiv](https://github.com/user-attachments/assets/c7b016c4-276a-4ab6-a702-1c1779dfc084)
 🆓<sup>forrás: https://massgrave.dev</sup>
-
+> [!TIP]
+> A fenti aktivátor program bármilyen más MS Office programcsomag aktiválására is tökéletesen alkalmas. 👌
 Jó szórakozást, sok örömöt a programhoz...
 <hr>
 💥Ráadás:Online Office (MS fiókkal, ingyen, bármilyen böngészőben működő webes word, excel, powerpoint): https://www.microsoft.com/hu-hu/microsoft-365/free-office-online-for-the-web
