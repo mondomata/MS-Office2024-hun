@@ -15,7 +15,7 @@
 
 ## &#128294; Office aktiválás
 
-* Nyisd meg a <b>PowerShell</b>t (nem CMD-t): ehhez **egér jobb-gombbal** kattints a Tálcán a **Start ikonra** (vagy nyomj le **egyszerre 2 billentyűt**: [Windows] <kbd>&plusb;</kbd> és <kbd>X</kbd>), válaszd a felugró listán a **PowerShell(vagy Terminál)** lehetőséget. (Régebbi Windows 10-en: ha nincs Powershell vagy Terminál a listán, akkor válaszd a **Parancssor**-t, majd a megnyílő ablakba írd be: <tt>powershell</tt> és nyomj <kbd>&#8629;Enter</kbd>-t.)
+* Nyisd meg a <b>PowerShell</b>t (nem CMD-t): ehhez **egér jobb-gombbal** kattints a Tálcán a **Start ikonra** (vagy nyomj le **egyszerre 2 billentyűt**: [Windows] <kbd>&plusb;</kbd> és <kbd>X</kbd>), válaszd a felugró listán a **PowerShell(vagy Terminál)** lehetőséget. (Ha nincs Powershell vagy Terminál a listán, akkor válaszd a **Parancssor**-t, majd az ablakba írd be: <tt>powershell</tt> és nyomj <kbd>&#8629;Enter</kbd>-t.)
 * Illeszd be az <b>alábbi kódot egyetlen sorba</b> a Powershell (Terminál) ablakba, majd nyomj <kbd>&#8629;Enter</kbd>-t: 
 
  ~~~
@@ -29,7 +29,7 @@ Aktiválás fotón:
 ![Officeaktiv](https://github.com/user-attachments/assets/c7b016c4-276a-4ab6-a702-1c1779dfc084)
 🆓<sup>forrás: https://massgrave.dev</sup>
 > [!TIP]
-> A fenti aktivátor program bármilyen más MS Office programcsomag aktiválására is tökéletesen alkalmas. 👌
+> A módszer bármilyen más MS Office programcsomag aktiválására is tökéletesen alkalmas. 👌
 Jó szórakozást, sok örömöt a programhoz...
 <hr>
 💥Ráadás:Online Office (MS fiókkal, ingyen, bármilyen böngészőben működő webes word, excel, powerpoint): https://www.microsoft.com/hu-hu/microsoft-365/free-office-online-for-the-web
