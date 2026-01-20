@@ -31,7 +31,7 @@ Aktiválás fotón:
 > [!TIP]
 > A módszer bármilyen más MS Office programcsomag aktiválására is tökéletesen alkalmas. 👌
 
-Jó szórakozást, sok örömöt a programhoz... Ha meghívnál 1 kávéra, azt legegyszerűbben itt teheted: https://revolut.me/mondomata
+Jó szórakozást, sok örömöt a programhoz... <sub>☕Ha tetszik, kérlek lájkold a webhelyet és ha meghívnál 1 kávéra, azt legegyszerűbben itt teheted: https://revolut.me/mondomata</sub>
 <hr>
 💥Ráadás:Online Office (MS fiókkal, ingyen, bármilyen böngészőben működő webes word, excel, powerpoint): https://www.microsoft.com/hu-hu/microsoft-365/free-office-online-for-the-web
 
