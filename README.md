@@ -13,6 +13,9 @@
 > [!NOTE]
 > 🏆...Sallangmentes, kizárólag a <b>magyar Word, Excel, Powerpoint (és Onenote)</b> telepítés fut le... Ennyi az egész.
 
+2026.aug.28. kiegészítés: A **magyar MS Office O365 Basic** (legújabb) programcsomag letöltése: <a href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365AppsBasicRetail&platform=x64&language=hu-hu&version=O16GA">innen lehetséges</a>. Ez a 2024-es verzióhoz képest tartalmazza a Onedrive programot is (egyebet nem), de a Onedrive használat természetesen nem kötelező, illetve a Word-Excel-Powerpoint is tökéletesen működik MS fiókos bejelentkezés nélkül is.
+(Aktiválás menete ua.)
+
 ## &#128294; Office aktiválás
 
 * Nyisd meg a <b>PowerShell</b>t (nem CMD-t): ehhez **egér jobb-gombbal** kattints a Tálcán a **Start ikonra** (vagy nyomj le **egyszerre 2 billentyűt**: [Windows] <kbd>&plusb;</kbd> és <kbd>X</kbd>), válaszd a felugró listán a **PowerShell(vagy Terminál)** lehetőséget. (Ha nincs Powershell vagy Terminál a listán, akkor válaszd a **Parancssor**-t, majd az ablakba írd be: <tt>powershell</tt> és nyomj <kbd>&#8629;Enter</kbd>-t.)
