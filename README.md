@@ -17,6 +17,8 @@
 (Aktiválás menete ua.)
 Képernyőkép:
 <img width="280" height="100" alt="image" src="https://github.com/user-attachments/assets/dbcb5e8a-e85d-4c25-889e-e9761c8ecc62" />
+<img width="280" height="100" alt="image" src="https://github.com/user-attachments/assets/f3c8d5b8-c1c5-4080-888b-2f622278984f" />
+
 
 
 ## &#128294; Office aktiválás
