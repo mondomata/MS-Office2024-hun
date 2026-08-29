@@ -16,7 +16,7 @@
 ## 🎆 O365 Basic <sup><tt>'26.08.28-tól</tt></sup>
 
 A <a title="a Microsoft hivatalos live.com szerveréről töltődik le a telepítőfájl" href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?productreleaseID=O365AppsBasicRetail&platform=x64&language=hu-hu&version=O16GA">
-**magyar MS Office O365 Basic** (jelenlegi legújabb) programcsomag letöltése 👉 innen.
+**magyar MS O365 Basic** (jelenlegi legújabb Office) programcsomag letöltése 👉 innen.
 </a> 
 
 Telepítés menete egyezik az előzővel. Képernyőképek:
