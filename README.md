@@ -19,9 +19,7 @@ A <a title="a Microsoft hivatalos live.com szerveréről töltődik le a telepí
 **magyar MS Office O365 Basic** (jelenlegi legújabb) programcsomag letöltése 👉 innen.
 </a> 
 
-Telepítés menete egyezik az előzővel.
-
-Képernyőkép:
+Telepítés menete egyezik az előzővel. Képernyőképek:
 <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/dbcb5e8a-e85d-4c25-889e-e9761c8ecc62" />
 <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/f3c8d5b8-c1c5-4080-888b-2f622278984f" />
 
