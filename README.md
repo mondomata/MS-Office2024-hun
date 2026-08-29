@@ -14,8 +14,8 @@
 > 🏆...Sallangmentes, kizárólag a <b>magyar Word, Excel, Powerpoint (és Onenote)</b> telepítés fut le... Ennyi az egész.
 
 2026.aug.28. kiegészítés: A <a href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?productreleaseID=O365AppsBasicRetail&platform=x64&language=hu-hu&version=O16GA">
-**magyar MS Office O365 Basic** (legújabb) programcsomag letöltése
-</a>. (Aktiválás menete ua.)
+**magyar MS Office O365 Basic** (jelenlegi legújabb) programcsomag letöltése
+</a>
 
 Képernyőkép:
 <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/dbcb5e8a-e85d-4c25-889e-e9761c8ecc62" />
@@ -23,7 +23,7 @@ Képernyőkép:
 
 
 
-## &#128294; Office aktiválás
+## &#128294; Office aktiválás (bármilyen MS Office csomag)
 
 * Nyisd meg a <b>PowerShell</b>t (nem CMD-t): ehhez **egér jobb-gombbal** kattints a Tálcán a **Start ikonra** (vagy nyomj le **egyszerre 2 billentyűt**: [Windows] <kbd>&plusb;</kbd> és <kbd>X</kbd>), válaszd a felugró listán a **PowerShell(vagy Terminál)** lehetőséget. (Ha nincs Powershell vagy Terminál a listán, akkor válaszd a **Parancssor**-t, majd az ablakba írd be: <tt>powershell</tt> és nyomj <kbd>&#8629;Enter</kbd>-t.)
 * Illeszd be az <b>alábbi kódot egyetlen sorba</b> a Powershell (Terminál) ablakba, majd nyomj <kbd>&#8629;Enter</kbd>-t: 
