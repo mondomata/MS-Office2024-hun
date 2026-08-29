@@ -48,5 +48,13 @@ Jó szórakozást, sok örömöt a programhoz... <sub>☕Ha tetszik, kérlek lá
 <hr>
 💥Ráadás:Online Office (MS fiókkal, ingyen, bármilyen böngészőben működő webes word, excel, powerpoint): https://www.microsoft.com/hu-hu/microsoft-365/free-office-online-for-the-web
 
+Képernyőkép az online (böngészős) Office-ról:
+
+<img width="600" height="400" alt="Képernyőkép_20260829_114610" src="https://github.com/user-attachments/assets/450000be-6784-46bd-89a3-0ca87260244c" />
+
+
+
+
+
 > [!TIP]
 > Ha Windows telepítő és telepítési útmutató érdekel, keresd a <a href="https://github.com/mondomata">szerző</a> Windows11Long_Alexa, Windows-Simplegood leírásait.👑
