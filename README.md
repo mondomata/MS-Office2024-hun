@@ -14,6 +14,7 @@
 > 🏆...Sallangmentes, kizárólag a <b>magyar Word, Excel, Powerpoint (és Onenote)</b> telepítés fut le... Ennyi az egész.
 
 <tt>2026.aug.28. kiegészítés:</tt>
+
 A <a href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?productreleaseID=O365AppsBasicRetail&platform=x64&language=hu-hu&version=O16GA">
 **magyar MS Office O365 Basic** (jelenlegi legújabb) programcsomag letöltése
 </a> Telepítés menete egyezik az előzővel.
