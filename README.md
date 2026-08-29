@@ -29,7 +29,7 @@ Telepítés menete egyezik az előzővel. Képernyőképek:
 ## &#128294; MS Office aktiválás (licenc)
 
 * Nyisd meg a <b>PowerShell</b>t (nem CMD-t): ehhez **egér jobb-gombbal** kattints a Tálcán a **Start ikonra** (vagy nyomj le **egyszerre 2 billentyűt**: [Windows] <kbd>&plusb;</kbd> és <kbd>X</kbd>), válaszd a felugró listán a **PowerShell(vagy Terminál)** lehetőséget.<sup> (Ha nincs Powershell vagy Terminál a listán, akkor válaszd a **Parancssor**-t, majd az ablakba írd be: <tt>powershell</tt> és nyomj <kbd>&#8629;Enter</kbd>-t.)</sup>
-* Illeszd be az <b>alábbi kódot egyetlen sorba</b> a Powershell (Terminál) ablakba, majd nyomj <kbd>&#8629;Enter</kbd>-t: 
+* Másold be az <b>alábbi kódot egyetlen sorba</b> a Powershell (Terminál) ablakba, majd nyomj <kbd>&#8629;Enter</kbd>-t: 
 
  ~~~
  & ([ScriptBlock]::Create((irm https://get.activated.win))) /Ohook
