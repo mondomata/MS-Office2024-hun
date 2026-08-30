@@ -1,5 +1,5 @@
 # MS Office 2024 Home (hun)
-***1 klikk install, 1 step aktiválás! Nulla macera, max. kényelem és védelem.🥳***
+*** ✅ 1 klikk install, ✅ 1 step aktiválás! ❌ Nulla macera, ✔️ max. kényelem és védelem.🥳***
 
 Magyar MS Office Windows 10, 11-re.
 
