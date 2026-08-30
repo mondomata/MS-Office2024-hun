@@ -3,7 +3,7 @@
 
 Magyar MS Office Windows 10, 11-re.
 
-<img width="200" height="130" alt="OfficeHome" src="https://github.com/user-attachments/assets/fb2e9f86-3de7-45df-a816-134889a82b05" />
+<img border="10" width="200" height="130" alt="OfficeHome" src="https://github.com/user-attachments/assets/fb2e9f86-3de7-45df-a816-134889a82b05" />
 
 ☝️*<tt> Ha van már telepítve MS office-od, azt töröld először a Gépház(Beállítások) -> Alkalmazások/Telepített alkalmazások helyen. </tt>*
 
