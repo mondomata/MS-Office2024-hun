@@ -2,8 +2,9 @@
 ***1 klikk install, 1 step aktiválás! Nulla macera, max. kényelem és védelem.🥳***
 
 Magyar MS Office Windows 10, 11-re.
-
-<img style="border: solid 10 px ivory;" width="200" height="130" alt="OfficeHome" src="https://github.com/user-attachments/assets/fb2e9f86-3de7-45df-a816-134889a82b05" />
+<span style="border: solid 10 px ivory;">
+<img width="200" height="130" alt="OfficeHome" src="https://github.com/user-attachments/assets/fb2e9f86-3de7-45df-a816-134889a82b05" />
+</span>
 
 ☝️*<tt> Ha van már telepítve MS office-od, azt töröld először a Gépház(Beállítások) -> Alkalmazások/Telepített alkalmazások helyen. </tt>*
 
