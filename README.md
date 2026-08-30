@@ -53,7 +53,7 @@ Aktiválás fotón:
 ![Officeaktiv](https://github.com/user-attachments/assets/c7b016c4-276a-4ab6-a702-1c1779dfc084)
 🆓<sup>forrás: https://massgrave.dev [THX 🥇]</sup>
 > [!TIP]
-> A módszer bármilyen Microsoft Office / O365 programcsomag aktiválására is tökéletesen alkalmas. 👌
+> A módszer bármilyen Microsoft Office / O365 programcsomag aktiválására alkalmas. 👌
 
 Jó szórakozást, sok örömöt a programhoz... <sub>☕Ha tetszik, kérlek lájkold a webhelyet és ha meghívnál 1 kávéra, azt legegyszerűbben itt teheted: https://revolut.me/mondomata</sub>
 <hr>
