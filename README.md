@@ -5,8 +5,9 @@ Magyar MS Office Windows 10, 11-re.
 
 <img width="200" height="130" alt="OfficeHome" src="https://github.com/user-attachments/assets/fb2e9f86-3de7-45df-a816-134889a82b05" />
 
-
-☝️*<tt> Ha van már telepítve MS office-od, azt töröld először a Gépház(Beállítások) -> Alkalmazások/Telepített alkalmazások helyen. </tt>*
+> [!Warning]
+> ☝️*<tt> Ha van már telepítve MS office-od, azt töröld először a Gépház(Beállítások) -> Alkalmazások/Telepített
+> alkalmazások helyen. </tt>*
 
  
  ## ☝️ Office 2024 Home - Letöltés, telepítés 
@@ -35,6 +36,7 @@ Telepítés menete egyezik az előzővel. Képernyőképek:
 
 
 <hr>
+
 ## &#128294; MS Office aktiválás (licenc)
 
 * Nyisd meg a <b>PowerShell</b>t (nem CMD-t): ehhez **egér jobb-gombbal** kattints a Tálcán a **Start ikonra** (vagy nyomj le **egyszerre 2 billentyűt**: [Windows] <kbd>&plusb;</kbd> és <kbd>X</kbd>), válaszd a felugró listán a **PowerShell(vagy Terminál)** lehetőséget.<sup> (Ha nincs Powershell vagy Terminál a listán, akkor válaszd a **Parancssor**t, majd az ablakba írd be: <tt>powershell</tt> és nyomj <kbd>&#8629;Enter</kbd>-t.)</sup>
