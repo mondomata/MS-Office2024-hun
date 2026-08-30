@@ -3,9 +3,9 @@
 
 Magyar MS Office Windows 10, 11-re.
 
-☝️*<tt> Ha van már telepítve MS office-od, azt töröld először a Gépház(Beállítások) -> Alkalmazások/Telepített alkalmazások helyen. </tt>*
-
 <img width="200" height="110" alt="OfficeHome" src="https://github.com/user-attachments/assets/fb2e9f86-3de7-45df-a816-134889a82b05" />
+
+☝️*<tt> Ha van már telepítve MS office-od, azt töröld először a Gépház(Beállítások) -> Alkalmazások/Telepített alkalmazások helyen. </tt>*
 
  
  ## ☝️ Office 2024 Home - Letöltés, telepítés 
