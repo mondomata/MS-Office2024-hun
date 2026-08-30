@@ -30,7 +30,7 @@ Telepítés menete egyezik az előzővel. Képernyőképek:
 <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/f3c8d5b8-c1c5-4080-888b-2f622278984f" />
 
 
-
+<hr>
 ## &#128294; MS Office aktiválás (licenc)
 
 * Nyisd meg a <b>PowerShell</b>t (nem CMD-t): ehhez **egér jobb-gombbal** kattints a Tálcán a **Start ikonra** (vagy nyomj le **egyszerre 2 billentyűt**: [Windows] <kbd>&plusb;</kbd> és <kbd>X</kbd>), válaszd a felugró listán a **PowerShell(vagy Terminál)** lehetőséget.<sup> (Ha nincs Powershell vagy Terminál a listán, akkor válaszd a **Parancssor**t, majd az ablakba írd be: <tt>powershell</tt> és nyomj <kbd>&#8629;Enter</kbd>-t.)</sup>
