@@ -79,5 +79,4 @@ Képernyőkép az online (böngészős) Office-ról:
 
 > [!TIP]
 > Ha Windows telepítő és telepítési útmutató érdekel, keresd a <a href="https://github.com/mondomata">szerző</a> Windows11Long_Alexa, Windows-Simplegood leírásait.👑
-<hr>
-qrcodePaypalMondomA.png
+
