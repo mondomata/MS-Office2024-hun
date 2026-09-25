@@ -63,9 +63,7 @@ Aktiválás fotón:
 > A módszer bármilyen Microsoft Office / O365 programcsomag aktiválására alkalmas. 👌
 
 Jó szórakozást, sok örömöt a programhoz... 
-<sub>☕Ha tetszik, kérlek lájkold a webhelyet és ha meghívnál 1 kávéra, azt legegyszerűbben itt teheted: https://revolut.me/mondomata vagy itt:</sub>
-
-<img src="https://github.com/mondomata/MS-Office2024-hun/blob/main/qrcodePaypalMondomA.png" width="32" height="32">
+<sub>☕Ha tetszik, kérlek lájkold a webhelyet és ha meghívnál 1 kávéra, azt legegyszerűbben itt teheted: https://revolut.me/mondomata vagy itt:</sub><img src="https://github.com/mondomata/MS-Office2024-hun/blob/main/qrcodePaypalMondomA.png" width="32" height="32">
 
 
 <hr>
