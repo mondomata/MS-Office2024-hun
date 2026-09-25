@@ -62,11 +62,7 @@ Aktiválás fotón:
 > [!TIP]
 > A módszer bármilyen Microsoft Office / O365 programcsomag aktiválására alkalmas. 👌
 
-Jó szórakozást, sok örömöt a programhoz... <sub>☕Ha tetszik, kérlek lájkold a webhelyet és ha meghívnál 1 kávéra, azt legegyszerűbben itt teheted: https://revolut.me/mondomata</sub>
-Total commander file list (copy)
-Total files: 1
-/storage/emulated/0/Download
-qrcodePaypalMondomA.png	65925	2026-09-23 14:26:28
+Jó szórakozást, sok örömöt a programhoz... <sub>☕Ha tetszik, kérlek lájkold a webhelyet és ha meghívnál 1 kávéra, azt legegyszerűbben itt teheted: https://revolut.me/mondomata</sup>
 
 <hr>
 💥Ráadás: ⛑️ Online Office (MS fiókkal, ingyen, bármilyen böngészőben működő webes word, excel, powerpoint): https://www.microsoft.com/hu-hu/microsoft-365/free-office-online-for-the-web
