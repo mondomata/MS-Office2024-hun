@@ -17,7 +17,7 @@ Magyar MS Office Windows 10, 11-re.
 > Gépház(Beállítások) - Alkalmazások / Telepített  alkalmazások helyen.</tt>
 
  
- ## ⬇️ 🇭🇺 Office 2024 Home (Otthoni verzió) - Letöltés, telepítés 
+ ## ⬇️ 🇭🇺 Office 2024 Home (Otthoni verzió)
 * <b>👉 Letöltöd</b> innen a spéci ⬇<a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/raw/refs/heads/main/OfficeSetup.exe" download="true" title="a letöltési link a github.com/mondomata címre mutat, tartalék letöltési cím (eredeti MS szerver): https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Home2024Retail&platform=x64&language=hu-hu&version=O16GA"><b>OfficeSetup.exe</b></a>-t❤️
 <sup> A forrás eredeti Microsoft, de menekülsz a hulladék, vagy kémkedő Office alkalmazásoktól. 😁Csak jól megfontolt szándékkal használd az online MS fiókod, anélkül is tökéletesen működik ez az Office. </sup> 
 
@@ -32,9 +32,9 @@ Magyar MS Office Windows 10, 11-re.
 > [!TIP]
 > ✨ Elérhető 2026.aug.28-tól a jelenlegi legújabb Office:
 
-## 🎆 O365 Basic - Letöltés, telepítés
+## 🎆 O365 Basic
 
-* letöltés innen: <a download="true" href="O365OfficeSetup.exe">**👉 MS O365 Basic **</a>❤️  vagy <a title="a Microsoft hivatalos live.com szerveréről töltődik le a telepítőfájl" href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?productreleaseID=O365AppsBasicRetail&platform=x64&language=hu-hu&version=O16GA"> 👉 letöltés a Microsofttól</a>
+* Letöltés: <a download="true" href="O365OfficeSetup.exe" title="githubról töltődik le...">**👉 MS O365 Basic **</a>❤️  vagy <a title="a Microsoft hivatalos live.com szerveréről töltődik le..." href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?productreleaseID=O365AppsBasicRetail&platform=x64&language=hu-hu&version=O16GA"> 👉 letöltés a Microsofttól</a>
  
 
 * Telepítés menete egyezik az előzővel. Képernyőképek:
