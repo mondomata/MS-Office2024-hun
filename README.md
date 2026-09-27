@@ -28,8 +28,6 @@ Magyar MS Office Windows 10, 11-re.
 
 
 <hr>
-> [!TIP]
-> ✨ Elérhető:
 
 ## 🎆 O365 Basic - a legújabb Office <sup>'26.08.28-tól</sup>
 
