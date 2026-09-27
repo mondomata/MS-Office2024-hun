@@ -17,7 +17,7 @@ Magyar MS Office Windows 10, 11-re.
 > Gépház(Beállítások) - Alkalmazások / Telepített  alkalmazások helyen.</tt>
 
  
- ## ⬇️ 🇭🇺 Office 2024 Home (Otthoni verzió)
+ ## ⬇️ 🇭🇺 Office 2024 Home <sup>(Otthoni verzió)</sup>
 * **👉 Letöltés**: spéci ⬇<a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/raw/refs/heads/main/OfficeSetup.exe" download="true" title="a letöltési link github.com címre mutat, tartalék letöltési cím (eredeti MS szerver): https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Home2024Retail&platform=x64&language=hu-hu&version=O16GA">OfficeSetup.exe</a>❤️
 <sup> A forrás eredeti Microsoft, de menekülsz a hulladék, vagy kémkedő Office alkalmazásoktól. 😁Csak jól megfontolt szándékkal használd az online MS fiókod, anélkül is tökéletesen működik ez az Office. </sup> 
 
