@@ -28,7 +28,7 @@ Magyar MS Office Windows 10, 11-re.
 
 
 <hr>
-🙌<tt>Elérhető 2026.auguszt.28-tól: **jelenlegi legújabb Office**</tt>
+🙌<tt>Elérhető 2026.aug.28-tól: **jelenlegi legújabb Office**</tt>
 
 ## 🎆 O365 Basic - Letöltés, telepítés
 A **MS O365 Basic**
