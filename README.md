@@ -14,7 +14,7 @@ Magyar MS Office Windows 10, 11-re.
 
 > [!Warning]
 > ☝️<tt>Ha van már telepítve MS Office-od, azt töröld először a
-> Gépház(Beállítások) -> Alkalmazások / Telepített  alkalmazások helyen.</tt>
+> Gépház(Beállítások) - Alkalmazások / Telepített  alkalmazások helyen.</tt>
 
  
  ## ⬇️ 🇭🇺 Office 2024 Home (Otthoni verzió) - Letöltés, telepítés 
