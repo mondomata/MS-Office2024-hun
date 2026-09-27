@@ -34,7 +34,8 @@ Magyar MS Office Windows 10, 11-re.
 
 ## 🎆 O365 Basic
 
-* Letöltés: <a download="true" href="O365OfficeSetup.exe" title="githubról töltődik le...">**👉 MS O365 Basic **</a>❤️  vagy <a title="a Microsoft hivatalos live.com szerveréről töltődik le..." href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?productreleaseID=O365AppsBasicRetail&platform=x64&language=hu-hu&version=O16GA"> 👉 letöltés a Microsofttól</a>
+* Letöltés: <a download="true" href="O365OfficeSetup.exe" title="githubról töltődik le...">**👉 MS O365 Basic **</a>❤️  vagy <a title="a Microsoft hivatalos live.com szerveréről töltődik le..." 
+href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?productreleaseID=O365AppsBasicRetail&platform=x64&language=hu-hu&version=O16GA"> 👉 letöltés a Microsofttól</a>
  
 
 * Telepítés menete egyezik az előzővel. Képernyőképek:
