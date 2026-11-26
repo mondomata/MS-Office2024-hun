@@ -1,4 +1,7 @@
-# MS Office 2024 Home (hun)
+# MS Office 
+
+## Office 2024 Home (hun) és O365 otthoni verzió (2 telepítő)
+
 ✅ = 1 klikk install,
 
 ✅ = 1 step aktiválás!
