@@ -36,15 +36,15 @@ Magyar MS Office Windows 10, 11-re.
 <hr>
 
 ## 🎆 O365 Basic - a legújabb Office 🎇 <sup>'<tt>26.08.28</tt>-tól</sup>
+<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/dbcb5e8a-e85d-4c25-889e-e9761c8ecc62" />
+<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/f3c8d5b8-c1c5-4080-888b-2f622278984f" />
+
 
 * Letöltés: <a download="true" href="https://github.com/mondomata/MS-Office2024-hun/raw/refs/heads/main/O365OfficeSetup.exe" title="githubról töltődik le...">**👉 MS O365 Basic **</a>❤️  vagy <a title="a Microsoft hivatalos live.com szerveréről töltődik le..." 
 href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?productreleaseID=O365AppsBasicRetail&platform=x64&language=hu-hu&version=O16GA"> 👉 letöltés a Microsofttól</a>
  
 
 * Telepítés menete egyezik az előzővel.<tt>(itt is töröld a meglévő MS Office-t, ha van)</tt> Képernyőképek:
-
-<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/dbcb5e8a-e85d-4c25-889e-e9761c8ecc62" />
-<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/f3c8d5b8-c1c5-4080-888b-2f622278984f" />
 
 
 <hr>
