@@ -1,6 +1,9 @@
+
 # MS Office 
 
-## Office 2024 Home (hun) és O365 Basic (hun,2026) verzió **(2 telepítő)**
+## Office 2024 Home (hun) és 
+## O365 Basic (hun,2026) verzió 
+*(2 telepítő)*
 
 > [!Warning]
 > ☝️<tt>Ha van már telepítve MS Office-od, azt töröld először a
